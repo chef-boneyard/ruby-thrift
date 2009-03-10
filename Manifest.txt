@@ -1,0 +1,13 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/thrift.rb
+lib/thrift/protocol/tbinaryprotocol.rb
+lib/thrift/protocol/tprotocol.rb
+lib/thrift/transport/thttpclient.rb
+lib/thrift/transport/tsocket.rb
+lib/thrift/transport/ttransport.rb
+lib/thrift/server/thttpserver.rb
+lib/thrift/server/tserver.rb
+test/test_thrift.rb
